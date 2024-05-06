@@ -5,7 +5,7 @@ This project contains all details of creating project
 
 ## License
 
-This project is licensed under the [Apache-2.0]() License.
+This project is licensed under the [None]() License.
 
 <!-- Add other sections here -->
 
