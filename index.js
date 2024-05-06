@@ -43,7 +43,7 @@ function init() {
     const markdown = generateMarkdown(answers);
 
     // Write content to README file
-    writeToFile('README.md', markdown);
+    writeToFile('./Develop/README.md', markdown);
   });
 }
 

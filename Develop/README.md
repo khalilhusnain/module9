@@ -1,11 +1,11 @@
-# README gnerator
+# README generator
 
 ## Description
-This project contain all description of this project
+This project contains all details of creating project
 
 ## License
 
-This project is licensed under the [None]() License.
+This project is licensed under the [Apache-2.0]() License.
 
 <!-- Add other sections here -->
 
