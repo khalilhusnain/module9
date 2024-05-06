@@ -5,7 +5,7 @@
 This is a command-line application that generates a professional README.md file dynamically based on user input using the Inquirer package.
 
 ## Demo Video
-[![Demo Video](https://drive.google.com/file/d/1kXUFqovXz65movHMRE3QH9OG52bbiuN9/view?usp=sharing)]
+[![Demo Video](https://drive.google.com/file/d/1I4CpQx31pkYBCWuErbm1cFSUOBrr5XX1/view?usp=drive_link)]
 
 ## Installation
 1. Clone the repository: `git clone https://github.com/khalilhusnain/module9`
